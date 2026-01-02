@@ -18,10 +18,12 @@ Il suffit de **glisser les dossiers dans vos ressources**, aucune configuration 
 - **Low poly** / peu de polygones
 - **Collisions fonctionnelles**
 - Prêts à être utilisés en jeu
+- Images incluses pour intégration avec systèmes de housing
 - Props créés à l’aide de **zoov.dev → http://zoov.dev**
 ---
 
 💡 *Compatible avec tous les serveurs FiveM*
+Support : En cas de besoin, contactez-moi sur Discord : sunnday95
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,8 +49,10 @@ Just **drag and drop the folders into your server resources**, no additional set
 - **Low poly** models
 - **Working collisions**
 - Ready to be used in-game
+- Included images for housing system integration
 - Props created using **zoov.dev → http://zoov.dev**
 
 ---
 
 💡 *Compatible with all FiveM servers*
+Support: If you need assistance, contact me on Discord: sunnday95

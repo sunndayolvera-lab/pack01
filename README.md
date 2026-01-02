@@ -18,7 +18,7 @@ Il suffit de **glisser les dossiers dans vos ressources**, aucune configuration 
 - **Low poly** / peu de polygones
 - **Collisions fonctionnelles**
 - Prêts à être utilisés en jeu
-- Images incluses pour intégration avec systèmes de housing // Dossier "Image for housing"
+- Images incluses pour **intégration avec systèmes de housing** // Dossier **"Image for housing"**
 - Props créés à l’aide de **zoov.dev → http://zoov.dev**
 ---
 
@@ -49,7 +49,7 @@ Just **drag and drop the folders into your server resources**, no additional set
 - **Low poly** models
 - **Working collisions**
 - Ready to be used in-game
-- Included images for housing system integration // Folder "Image for housing"
+- Included images for **housing system integration** // Folder **"Image for housing"**
 - Props created using **zoov.dev → http://zoov.dev**
 
 ---
